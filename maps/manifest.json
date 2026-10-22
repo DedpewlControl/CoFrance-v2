@@ -200,8 +200,11 @@
         ],
         "LFMT": [
             "0_CCA_Montpellier",
-            "1_CCA_Montpellier_VFR",
-            "2_CCA_Montpellier_AMSR"
+            "1_CCA_Montpellier_AMSR",
+            "3_CCA_Montpellier_IFR_FIX_Names",
+            "3_CCA_Montpellier_Navaids_Names",
+            "4_CCA_Montpellier_VFR_ARPs",
+            "4_CCA_Montpellier_VFR_Point_Names"
         ]
     },
     "LFXX": [
