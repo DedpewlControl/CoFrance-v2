@@ -101,8 +101,11 @@
         ],
         "LFBI": [
             "0_CCA_Poitiers",
-            "1_CCA_Poitiers_VFR",
-            "2_CCA_Poitiers_AMSR"
+            "1_CCA_Poitiers_AMSR",
+            "3_CCA_Poitiers_Navaid_Names",
+            "3_CCA_Poitiers_IFR_FIX_Names",
+            "4_CCA_Poitiers_VFR_Point_Names",
+            "4_CCA_Poitiers_ARPs"
         ],
         "LFBL": [
             "0_CCA_Limoges",
