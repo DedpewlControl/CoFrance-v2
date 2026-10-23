@@ -170,9 +170,11 @@
         ],
         "LFLC": [
             "0_CCA_Clermont",
-            "1_CCA_Clermont_VFR",
-            "2_CCA_Clermont_MVA",
-            "2_CCA_Clermont_Saint_Yan_AMG"
+            "1_CCA_Clermont_MVA",
+            "3_CCA_Clermont_IFR_FIX_Names",
+            "3_CCA_Clermont_Navaids_Names",
+            "4_CCA_Clermont_VFR_ARPs",
+            "4_CCA_Clermont_VFR_Point_Names"
         ],
         "LFLL": [
             "0_CCA_Lyon",
