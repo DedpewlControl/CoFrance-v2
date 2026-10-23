@@ -93,8 +93,11 @@
         ],
         "LFBH": [
             "0_CCA_La_Rochelle",
-            "1_CCA_La_Rochelle_VFR",
-            "2_CCA_La_Rochelle_AMSR"
+            "1_CCA_La_Rochelle_AMSR",
+            "3_CCA_La_Rochelle_IFR_FIX_Names",
+            "3_CCA_La_Rochelle_Navaids_Names",
+            "4_CCA_La_Rochelle_VFR_ARPs",
+            "4_CCA_La_Rochelle_VFR_Point_Names"
         ],
         "LFBI": [
             "0_CCA_Poitiers",
