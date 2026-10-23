@@ -84,8 +84,12 @@
         ],
         "LFBD": [
             "0_CCA_Aquitaine",
-            "2_CCA_Aquitaine_VFR",
-            "3_CCA_Aquitaine_AMG"
+            "1_CCA_Aquitaine_MVA",
+            "2_CCA_Aquitaine_Procedures",
+            "3_CCA_Aquitaine_IFR_FIX_Names",
+            "3_CCA_Aquitaine_Navaid_Names",
+            "4_CCA_Aquitaine_VFR_ARPs",
+            "4_CCA_Aquitaine_VFR_Point_Names"
         ],
         "LFBH": [
             "0_CCA_La_Rochelle",
