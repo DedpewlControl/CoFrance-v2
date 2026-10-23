@@ -124,8 +124,11 @@
         ],
         "LFBZ": [
             "0_CCA_Biarritz",
-            "1_CCA_Biarritz_VFR",
-            "2_CCA_Biarritz_MVA"
+            "1_CCA_Biarritz_MVA",
+            "3_CCA_Biarritz_Navaid_Names",
+            "3_CCA_Biarritz_IFR_FIX_Names",
+            "4_CCA_Biarritz_VFR_ARPs",
+            "4_CCA_Biarritz_VFR_Point_Names"
         ]
     },
     "LFRR": {
