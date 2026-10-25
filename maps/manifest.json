@@ -74,7 +74,8 @@
             "3_CCA_Bale_Navaids_Names",
             "3_CCA_Bale_FIX_Names",
             "4_CCA_Bale_VFR_Point_Names",
-            "4_CCA_Bale_ARPs"
+            "4_CCA_Bale_ARPs",
+            "1_CCA_Bale_MVA"
         ],
         "LFST": [
             "0_CCA_Strasbourg",
