@@ -239,9 +239,16 @@
         ],
         "LFMN": [
             "0_CCA_Nice",
-            "1_CCA_Nice_QFU04_ILS",
-            "2_CCA_Nice_VFR",
-            "3_CCA_Nice_AMG"
+            "1_CCA_Nice_AMG",
+            "2_CCA_Nice Procedures_ILS",
+            "2_CCA_Nice_Procedures_RNP",
+            "2_CCA_Nice_Procedure_CDO_04_RNP_A",
+            "2_CCA_Nice_Procedure_CDO_04_RNP_ZY",
+            "2_CCA_Nice_Procedure_CDO_22_RNP_D",
+            "3_CCA_Nice_Navaids_Names",
+            "3_CCA_Nice_IFR_FIX_Names",
+            "4_CCA_Nice_VFR_Point_Names",
+            "4_CCA_Nice_ARPs"
         ],
         "LFMT": [
             "0_CCA_Montpellier",
