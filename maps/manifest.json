@@ -152,7 +152,12 @@
         "LFRB": [
             "0_CCA_Iroise",
             "1_CCA_Iroise_VFR",
-            "2_CCA_Iroise_MVA"
+            "2_CCA_Iroise_MVA",
+            "1_CCA_Iroise_MVA",
+            "3_CCA_Iroise_Navaids_Names",
+            "3_CCA_Iroise_FIX_Names",
+            "4_CCA_Iroise_VFR_Point_Names",
+            "4_CCA_Iroise_ARPs"
         ],
         "LFRN": [
             "0_CCA_Rennes",
