@@ -69,18 +69,15 @@
         ],
         "LFSB": [
             "0_CCA_Bale",
-            "1_CCA_Bale_VFR",
-            "2_CCA_Bale_AMSR",
+            "1_CCA_Bale_MVA",
             "3_CCA_Bale_Navaids_Names",
             "3_CCA_Bale_FIX_Names",
             "4_CCA_Bale_VFR_Point_Names",
-            "4_CCA_Bale_ARPs",
-            "1_CCA_Bale_MVA"
+            "4_CCA_Bale_ARPs"
         ],
         "LFST": [
             "0_CCA_Strasbourg",
-            "1_CCA_Strasbourg_VFR",
-            "2_CCA_Strasbourg_AMSR",
+            "1_CCA_Strasbourg_AMSR",
             "3_CCA_Strasbourg_Navaids_Names",
             "3_CCA_Strasbourg_FIX_Names",
             "4_CCA_Strasbourg_VFR_Point_Names",
@@ -137,8 +134,6 @@
         ],
         "LFBP": [
             "0_CCA_Pyrenees",
-            "1_CCA_Pyrenees_VFR",
-            "2_CCA_Pyrenees_MVA",
             "1_CCA_Pyrenees_MVA",
             "3_CCA_Pyrenees_Navaids_Names",
             "3_CCA_Pyrenees_FIX_Names",
@@ -160,8 +155,6 @@
         ],
         "LFRB": [
             "0_CCA_Iroise",
-            "1_CCA_Iroise_VFR",
-            "2_CCA_Iroise_MVA",
             "1_CCA_Iroise_MVA",
             "3_CCA_Iroise_Navaids_Names",
             "3_CCA_Iroise_FIX_Names",
@@ -170,8 +163,6 @@
         ],
         "LFRN": [
             "0_CCA_Rennes",
-            "1_CCA_Rennes_VFR",
-            "2_CCA_Rennes_MVA",
             "1_CCA_Rennes_MVA",
             "3_CCA_Rennes_Navaids_Names",
             "4_CCA_Rennes_VFR_Point_Names",
@@ -194,18 +185,22 @@
         ],
         "LFKB": [
             "0_CCA_Bastia",
-            "1_CCA_Bastia_VFR",
-            "2_CCA_Bastia_AMSR"
+            "1_CCA_Bastia_AMSR",
+            "3_CCA_Bastia_Navaids_Names",
+            "3_CCA_Bastia_FIX_Names",
+            "4_CCA_Bastia_VFR_Point_Names",
+            "4_CCA_Bastia_ARPs"
         ],
         "LFKJ": [
             "0_CCA_Ajaccio",
-            "1_CCA_Ajaccio_VFR",
-            "2_CCA_Ajaccio_AMSR"
+            "1_CCA_Ajaccio_AMSR",
+            "3_CCA_Ajaccio_Navaids_Names",
+            "3_CCA_Ajaccio_FIX_Names",
+            "4_CCA_Ajaccio_VFR_Point_Names",
+            "4_CCA_Ajaccio_ARPs"
         ],
         "LFLB": [
             "0_CCA_Chambery",
-            "1_CCA_Chambery_VFR",
-            "2_CCA_Chambery_MVA",
             "1_CCA_Chambery_AMSR",
             "3_CCA_Chambery_Navaids_Names",
             "3_CCA_Chambery_FIX_Names",
@@ -222,9 +217,8 @@
         ],
         "LFLL": [
             "0_CCA_Lyon",
-            "1_CCA_Lyon_VFR",
-            "2_CCA_Lyon_AMSR_Lyon",
-            "2_CCA_Lyon_MVA_Chambery",
+            "1_CCA_Lyon_AMSR_Lyon",
+            "1_CCA_Lyon_MVA_Chambery",
             "2_CCA_Lyon_Procedures",
             "3_CCA_Lyon_Navaid_Names",
             "3_CCA_Lyon_IFR_FIX_Names",
