@@ -7,9 +7,9 @@
                 "name": "Provence AMSR",
                 "lineStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "width": 2,
                     "opacity": 1,
@@ -1084,12 +1084,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "5500"
                 }
@@ -1111,12 +1111,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "9200"
                 }
@@ -1138,12 +1138,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "4300"
                 }
@@ -1165,12 +1165,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "4300"
                 }
@@ -1192,12 +1192,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "3000"
                 }
@@ -1219,12 +1219,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "2000"
                 }
@@ -1246,12 +1246,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "4000"
                 }
@@ -1273,12 +1273,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "5000"
                 }
@@ -1300,12 +1300,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "3100"
                 }
@@ -1327,12 +1327,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "4700"
                 }
@@ -1354,12 +1354,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "3600"
                 }
@@ -1381,12 +1381,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "5000"
                 }
@@ -1408,12 +1408,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "6000"
                 }
@@ -1435,12 +1435,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "2200"
                 }
@@ -1462,12 +1462,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "2000"
                 }
@@ -1489,12 +1489,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "1700"
                 }
@@ -1516,12 +1516,12 @@
                 "uuid": "Provence AMSR Altitudes",
                 "textStyle": {
                     "color": [
-                        97,
-                        115,
-                        76
+                        196,
+                        149,
+                        15
                     ],
                     "fontFamily": "Arial",
-                    "fontSize": 16,
+                    "fontSize": 12,
                     "fontWeight": 600,
                     "text": "3500"
                 }
