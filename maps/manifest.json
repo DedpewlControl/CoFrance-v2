@@ -205,7 +205,12 @@
         "LFLB": [
             "0_CCA_Chambery",
             "1_CCA_Chambery_VFR",
-            "2_CCA_Chambery_MVA"
+            "2_CCA_Chambery_MVA",
+            "1_CCA_Chambery_AMSR",
+            "3_CCA_Chambery_Navaids_Names",
+            "3_CCA_Chambery_FIX_Names",
+            "4_CCA_Chambery_VFR_Point_Names",
+            "4_CCA_Chambery_ARPs"
         ],
         "LFLC": [
             "0_CCA_Clermont",
