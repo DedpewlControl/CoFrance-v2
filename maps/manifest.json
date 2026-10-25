@@ -219,7 +219,12 @@
             "0_CCA_Lyon",
             "1_CCA_Lyon_VFR",
             "2_CCA_Lyon_AMSR_Lyon",
-            "2_CCA_Lyon_MVA_Chambery"
+            "2_CCA_Lyon_MVA_Chambery",
+            "2_CCA_Lyon_Procedures",
+            "3_CCA_Lyon_Navaid_Names",
+            "3_CCA_Lyon_IFR_FIX_Names",
+            "4_CCA_Lyon_VFR_Point_Names",
+            "4_CCA_Lyon_ARPs"
         ],
         "LFLN": [
             "0_CCA_Saint_Yan",
