@@ -129,7 +129,12 @@
         "LFBP": [
             "0_CCA_Pyrenees",
             "1_CCA_Pyrenees_VFR",
-            "2_CCA_Pyrenees_MVA"
+            "2_CCA_Pyrenees_MVA",
+            "1_CCA_Pyrenees_MVA",
+            "3_CCA_Pyrenees_Navaids_Names",
+            "3_CCA_Pyrenees_FIX_Names",
+            "4_CCA_Pyrenees_VFR_Point_Names",
+            "4_CCA_Pyrenees_ARPs"
         ],
         "LFBZ": [
             "0_CCA_Biarritz",
