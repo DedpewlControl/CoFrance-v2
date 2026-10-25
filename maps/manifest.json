@@ -80,7 +80,11 @@
         "LFST": [
             "0_CCA_Strasbourg",
             "1_CCA_Strasbourg_VFR",
-            "2_CCA_Strasbourg_AMSR"
+            "2_CCA_Strasbourg_AMSR",
+            "3_CCA_Strasbourg_Navaids_Names",
+            "3_CCA_Strasbourg_FIX_Names",
+            "4_CCA_Strasbourg_VFR_Point_Names",
+            "4_CCA_Strasbourg_ARPs"
         ]
     },
     "LFBB": {
