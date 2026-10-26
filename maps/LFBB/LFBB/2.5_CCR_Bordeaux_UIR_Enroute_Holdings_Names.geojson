@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"ATSUP"}},"geometry":{"type":"MultiPoint","coordinates":[[2.934793,45.623393]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"PPG"}},"geometry":{"type":"MultiPoint","coordinates":[[2.858063,42.640908]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"MAKIL"}},"geometry":{"type":"MultiPoint","coordinates":[[2.338936,44.277228]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"POI"}},"geometry":{"type":"MultiPoint","coordinates":[[0.294839,46.691341]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"EVPOK"}},"geometry":{"type":"MultiPoint","coordinates":[[1.383195,45.353933]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"BADAM"}},"geometry":{"type":"MultiPoint","coordinates":[[3.170758,43.967922]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"BTZ"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.372829,43.385012]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"ROCAN"}},"geometry":{"type":"MultiPoint","coordinates":[[1.96329,42.563589]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CNA"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.333525,45.776843]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"DIGPO"}},"geometry":{"type":"MultiPoint","coordinates":[[0.297355,43.395095]]}},
+{"type":"Feature","properties":{"uuid":"Selected_Points_Names","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"OSMOB"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.351118,44.545184]]}}
+]}
