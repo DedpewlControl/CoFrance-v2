@@ -85,6 +85,15 @@
         ]
     },
     "LFBB": {
+        "LFBB-FIR": [
+            "0_CCR_Bordeaux_FIR",
+            "1.1_CCR_Bordeaux_FIR_Airspace_Labels",
+            "1.2_CCR_Bordeaux_FIR_ARPs",
+            "1.3_CCR_Bordeaux_FIR_Runways",
+            "1.4_CCR_Bordeaux_FIR_Low_Airways_Names",
+            "1.4_CCR_Bordeaux_FIR_Low_Airways",
+            "1.5_CCR_Bordeaux_FIR_Navaid_Names"
+        ],
         "LFBB-UIR": [
             "0_CCR_Bordeaux_UIR",
             "1.1_CCR_Bordeaux_UIR_Adjacent_Sectors",
