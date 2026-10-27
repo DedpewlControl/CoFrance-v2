@@ -85,17 +85,16 @@
         ]
     },
     "LFBB": {
-        "LFBB": [
-            "0_CCR_Bordeaux",
-            "2.1_CCR_Bordeaux_UIR_Adjacent_Sectors",
-            "2.1_CCR_Bordeaux_UIR_Military_Sectors",
-            "2.2_CCR_Bordeaux_UIR_Point_FRA_Names",
-            "2.2_CCR_Bordeaux_UIR_Point_FRA",
-            "2.3_CCR_Bordeaux_UIR_Point_Arrivals_Names",
-            "2.3_CCR_Bordeaux_UIR_Point_Arrivals",
-            "2.4_CCR_Bordeaux_UIR_Adjacent_Arrival_Descents",
-            "2.5_CCR_Bordeaux_UIR_Enroute_Holdings_Names",
-            "2.5_CCR_Bordeaux_UIR_Enroute_Holdings"
+        "LFBB-UIR": [
+            "0_CCR_Bordeaux_UIR",
+            "1.1_CCR_Bordeaux_UIR_Adjacent_Sectors",
+            "1.1_CCR_Bordeaux_UIR_Military_Sectors",
+            "1.2_CCR_Bordeaux_UIR_Points_FRA_Names",
+            "1.2_CCR_Bordeaux_UIR_Points_FRA",
+            "1.3_CCR_Bordeaux_UIR_Points_Arrivals_Names",
+            "1.3_CCR_Bordeaux_UIR_Points_Arrivals",
+            "1.4_CCR_Bordeaux_UIR_Adj_Arrival_Descents",
+            "1.5_CCR_Bordeaux_UIR_Enroute_Holdings"
         ],
         "LFBD": [
             "0_CCA_Aquitaine",
